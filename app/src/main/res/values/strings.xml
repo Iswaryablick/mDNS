@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mDNS</string>
+    <string name="ooops">Ooops!</string>
+    <string name="internet_information">Slow or no internet connection\nCheck your internet settings</string>
+</resources>
